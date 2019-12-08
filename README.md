@@ -1,4 +1,4 @@
-# Counting-Coin-in-Live-Video-mage-Processing in Matlab
+# Counting coins inlive video with  image processing using Matlab
 * Program Name : Counting-Coin in Live Video(İmage Processing)                
 * Author       : M.Fatih Altuntaş                                             
 * Description  : This program just tracks all coin, finding values of coin,
